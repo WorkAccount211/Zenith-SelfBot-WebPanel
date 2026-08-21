@@ -1,0 +1,6 @@
+{
+  "name": "ZenithRAM - Roblox Multi-Instance Manager",
+  "description": "Профессиональный менеджер аккаунтов и мульти-запуск Roblox со спуфингом HWID/MAC, обходом mutex, поиском игроков и веб-панелью",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
