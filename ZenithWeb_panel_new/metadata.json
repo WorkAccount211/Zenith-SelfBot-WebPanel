@@ -1,6 +1,0 @@
-{
-  "name": "Discord Self-Bot Control Panel",
-  "description": "Премиум веб-панель управления для self-бота Discord с тёмной темой, фиолетовыми акцентами, анимациями и полной поддержкой REST API.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
